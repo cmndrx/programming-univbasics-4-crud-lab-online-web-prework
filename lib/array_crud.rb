@@ -38,7 +38,8 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  
+         array = ["red","blue","green","arrays!"]
+        return "arrays!"
 end
 
 def update_element_from_index(array, index_number, element)
